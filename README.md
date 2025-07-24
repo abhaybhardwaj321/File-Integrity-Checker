@@ -1,6 +1,8 @@
 # FileIntegrityChecker
+
 COMPANY:CODTECH IT SOLUTIONS
-NAME:Abhay Bhardwaj
+NAME:ABHAY BHARDWAJ
+
 DESCRIPTION:📝 Task 1: File Integrity Checker – Description
 In the realm of cybersecurity, ensuring the integrity of files is a fundamental necessity. Task 1 of the CodTech Cyber Security Internship involves building a File Integrity Checker using Python, aimed at detecting unauthorized or accidental changes in files by computing and comparing their cryptographic hash values. This task not only enhances your understanding of file security and hashing but also lays a strong foundation for secure programming practices.
 
